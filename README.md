@@ -11,13 +11,13 @@
 
 ### 1. Complete Solutions Presentation
 - `Presentation1.pptx` - Contains solutions for **Exercises 2, 3, 4, and 5**  
-  *(Exercises 1 and 6 solutions included in presentation slides)*
+
 
 ### 2. Original Files
 - `Provided_Files/` - Contains original tutorial sheet and NS-3 code
 
 ### 3. Exercise Structure
-- All 6 exercises completed and documented in the PowerPoint presentation
+- All 4 exercises completed and documented in the PowerPoint presentation
 - Detailed NS-3 code modifications with explanations
 - Simulation results and analysis
 
@@ -30,6 +30,6 @@
 | 3 | WAN Security Integration | ✅ Complete | Slide [X] |
 | 4 | Multi-Hop WAN Architecture | ✅ Complete | Slide [X] |
 | 5 | Policy-Based Routing | ✅ Complete | Slide [X] |
-| 6 | Inter-AS Routing Simulation | ✅ Complete | Slide [X] |
+
 
 ## 📦 Repository Structure
